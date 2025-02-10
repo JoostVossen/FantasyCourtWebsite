@@ -35,6 +35,8 @@ resources:
   - src: "**"
     name: "image-:counter"
     title: "Fantasy Court Image :counter"
+og:
+  description: "Bekijk het laatste (of oudste) nieuws omtrent Fantasy Court!"
 ---
 
 {{< message >}}
@@ -47,7 +49,7 @@ resources:
 
 ## Editie 2024
 
-Editie 2024 heeft plaatsgevonden op 9 juni. Het festival was weer een klein beetje gegroeid en weer een klein beetje gezelliger. 
+Editie 2024 heeft plaatsgevonden op 9 juni. Het festival was weer een klein beetje gegroeid en weer een klein beetje gezelliger. Door te beginnen met investeren in audio-apparatuur waren we minder afhankelijk van het moeten lenen van alle techniek. Ook hebben we een stuk gras naast het veld bij het festival kunnen trekken waardoor we meer ruimte hebben voor uitbreiding.
 
 
 ## Editie 2023
